@@ -32,6 +32,10 @@ To access the solutions or If you have any questions or need further assistance,
 18. Week 18 `wr` - [Solutions](x-solutions/wr-solutions.md)
 19. Week 19 `ws` - [Solutions](x-solutions/ws-solutions.md)
 20. Week 20 `wt` - [Solutions](x-solutions/wt-solutions.md)
+21. Week 21 `wu` - [Solutions](x-solutions/wu-solutions.md)
+22. Week 22 `wv` - [Solutions](x-solutions/wv-solutions.md)
+23. Week 23 `ww` - [Solutions](x-solutions/ww-solutions.md)
+24. Week 24 `wx` - [Solutions](x-solutions/wx-solutions.md)
 
 ## Summary
 
